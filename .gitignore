@@ -1,0 +1,6 @@
+*.pyc
+.git
+*.nogit
+.env
+resources
+.csv
